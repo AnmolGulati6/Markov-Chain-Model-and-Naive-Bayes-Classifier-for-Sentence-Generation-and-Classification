@@ -1,0 +1,2 @@
+# Markov-Chain-Model-and-Naive-Bayes-Classifier-for-Sentence-Generation-and-Classification
+Implemented a Markov chain text generation model based on a movie script. The objective is to generate new sentences that may contain sensible words and phrases using the Markov chain model. Additionally, a Naive Bayes classifier is built to distinguish sentences from the original script and sentences from a fake script
