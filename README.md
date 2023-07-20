@@ -1,7 +1,7 @@
 # Markov Chain Text Generation and Naive Bayes Classifier for Movie Script Analysis
 
 ### Introduction
-In this project, I have implemented a Markov chain text generation model based on a movie script. The script used for this project is "Joker," which was obtained from IMSDb (The Internet Movie Script Database). The objective is to generate new sentences that may contain sensible words and phrases using the Markov chain model. Additionally, a Naive Bayes classifier is built to distinguish sentences from the original script and sentences from a fake script.
+This project, done as part of the CS-540 Intro to AI course at UW Madison. In this project, I have implemented a Markov chain text generation model based on a movie script. The script used for this project is "Joker," which was obtained from IMSDb (The Internet Movie Script Database). The objective is to generate new sentences that may contain sensible words and phrases using the Markov chain model. Additionally, a Naive Bayes classifier is built to distinguish sentences from the original script and sentences from a fake script.
 
 ### Part 1: Markov Chain Text Generation
 1. **Data Preprocessing:** The script is converted to lowercase, and all non-letter characters are removed. Consecutive spaces are replaced with a single space to ensure there are no consecutive spaces.
